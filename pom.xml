@@ -8,6 +8,17 @@
   <name>01-Pilotweb-Project Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+	<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>5.2.22.RELEASE</version>
+	</dependency>
+	<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>5.1.22.RELEASE</version>
+	</dependency>
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -19,3 +30,4 @@
     <finalName>01-Pilotweb-Project</finalName>
   </build>
 </project>
+3593+3088
